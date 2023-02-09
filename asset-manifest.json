@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lesson-site/static/css/main.506f9fe7.css",
+    "main.js": "/lesson-site/static/js/main.4edeecf7.js",
+    "static/js/787.c645a530.chunk.js": "/lesson-site/static/js/787.c645a530.chunk.js",
+    "static/media/portrait1.jpg": "/lesson-site/static/media/portrait1.8a1bec4a9c5d8d014f92.jpg",
+    "static/media/portrait3.jpg": "/lesson-site/static/media/portrait3.4aa4f4a8be42dc773f1e.jpg",
+    "static/media/portrait4.jpg": "/lesson-site/static/media/portrait4.3250d5acc24623a080c2.jpg",
+    "static/media/portrait2.jpg": "/lesson-site/static/media/portrait2.f0aebb06de2e14af45c9.jpg",
+    "static/media/background.jpg": "/lesson-site/static/media/background.fd6b0750337b08e722d6.jpg",
+    "index.html": "/lesson-site/index.html",
+    "main.506f9fe7.css.map": "/lesson-site/static/css/main.506f9fe7.css.map",
+    "main.4edeecf7.js.map": "/lesson-site/static/js/main.4edeecf7.js.map",
+    "787.c645a530.chunk.js.map": "/lesson-site/static/js/787.c645a530.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.506f9fe7.css",
+    "static/js/main.4edeecf7.js"
+  ]
+}
