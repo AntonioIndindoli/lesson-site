@@ -35,13 +35,13 @@
 
 .row1{
   height: 300px;
-  background-image: linear-gradient(#111111, #251b1f);
+  background-image: linear-gradient(#111111, #2c2622);
   position: relative;
 }
 
 .row2{
   height: 500px;
-  background-image: linear-gradient(#251b1f, #111111);
+  background-image: linear-gradient(#2c2622, #111111);
   position: relative;
 }
 
