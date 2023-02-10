@@ -22,10 +22,10 @@ function App() {
         <Col className="column">
           <img className="desc-img" src={portrait2}></img>
         </Col>
-        <Col xs={8} className="column">
+        <Col xs={7} className="column">
           <p className='home-desc'>
-            Tutoring
-            <br></br><br></br>
+            - Tutoring
+            <br></br>
             Meet Caleb Rodriguez, a multi-talented tutor who specializes in piano lessons but also offers expertise in English, spelling, math, and writing. With a passion for music and education, Caleb has dedicated himself to helping students of all ages reach their full potential.</p>
         </Col>
       </Row>
@@ -33,10 +33,10 @@ function App() {
         <Col className="column">
           <img className="desc-img" src={portrait1}></img>
         </Col>
-        <Col xs={8} className="column">
+        <Col xs={7} className="column">
           <p className='home-desc'>
-            Piano
-            <br></br><br></br>
+            - Piano
+            <br></br>
             Whether you're a beginner looking to learn the basics or an experienced musician looking to perfect your skills, Caleb's personalized approach will help you achieve your goals. Book your tutoring session with Caleb today and start your child’s journey towards becoming a confident and accomplished musician or student.</p>
         </Col>
       </Row>
