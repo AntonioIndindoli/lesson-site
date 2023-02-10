@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lesson-site/static/css/main.ea908046.css",
-    "main.js": "/lesson-site/static/js/main.22c1e8d1.js",
+    "main.css": "/lesson-site/static/css/main.14bd40e5.css",
+    "main.js": "/lesson-site/static/js/main.2d924ba0.js",
     "static/js/787.c645a530.chunk.js": "/lesson-site/static/js/787.c645a530.chunk.js",
     "static/media/portrait1.jpg": "/lesson-site/static/media/portrait1.8a1bec4a9c5d8d014f92.jpg",
     "static/media/portrait3.jpg": "/lesson-site/static/media/portrait3.4aa4f4a8be42dc773f1e.jpg",
@@ -9,12 +9,12 @@
     "static/media/portrait2.jpg": "/lesson-site/static/media/portrait2.f0aebb06de2e14af45c9.jpg",
     "static/media/background.jpg": "/lesson-site/static/media/background.fd6b0750337b08e722d6.jpg",
     "index.html": "/lesson-site/index.html",
-    "main.ea908046.css.map": "/lesson-site/static/css/main.ea908046.css.map",
-    "main.22c1e8d1.js.map": "/lesson-site/static/js/main.22c1e8d1.js.map",
+    "main.14bd40e5.css.map": "/lesson-site/static/css/main.14bd40e5.css.map",
+    "main.2d924ba0.js.map": "/lesson-site/static/js/main.2d924ba0.js.map",
     "787.c645a530.chunk.js.map": "/lesson-site/static/js/787.c645a530.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea908046.css",
-    "static/js/main.22c1e8d1.js"
+    "static/css/main.14bd40e5.css",
+    "static/js/main.2d924ba0.js"
   ]
 }
