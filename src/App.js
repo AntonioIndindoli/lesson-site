@@ -22,7 +22,7 @@ function App() {
         <Col className="column1">
           <img className="desc-img" src={portrait2}></img>
         </Col>
-        <Col xs={7} className="column1">
+        <Col xs={8} className="column1">
           <p className='home-desc'>
             Tutoring
             <br></br>
@@ -33,7 +33,7 @@ function App() {
         <Col className="column1">
           <img className="desc-img" src={portrait1}></img>
         </Col>
-        <Col xs={7} className="column1">
+        <Col xs={8} className="column1">
           <p className='home-desc'>
             Piano
             <br></br>
