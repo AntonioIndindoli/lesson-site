@@ -12,17 +12,17 @@ import Row from 'react-bootstrap/Row';
 function App() {
   return (
     <div>
-      <div className="home-bar">
+      <Row className="home-bar">
         <p className='home-title'>Mr. Caleb's Tutoring</p>
-      </div>
-      <div className="home-info">
+      </Row>
+      <Row className="home-info">
         <p className='home-info-text'>(925)-597-7979 | rodriguezcaleb.bchs@gmail.com</p>
-      </div>
+      </Row>
       <Row className="row1">
         <Col className="column1">
           <img className="desc-img" src={portrait2}></img>
         </Col>
-        <Col xs={8} className="column1">
+        <Col xs={7} className="column1">
           <p className='home-desc'>
             Tutoring
             <br></br>
@@ -33,7 +33,7 @@ function App() {
         <Col className="column1">
           <img className="desc-img" src={portrait1}></img>
         </Col>
-        <Col xs={8} className="column1">
+        <Col xs={7} className="column1">
           <p className='home-desc'>
             Piano
             <br></br>
